@@ -1,0 +1,14 @@
+aaa 756
+bbb 300
+ccc 0
+ccc 0
+ddd 0
+ddd 0
+ddd 4104
+ddd 4104
+ddd 4116
+ddd 4124
+ddd 4128
+ddd 4144
+eeee 220
+t 216
